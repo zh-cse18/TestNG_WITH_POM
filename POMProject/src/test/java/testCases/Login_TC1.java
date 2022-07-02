@@ -32,8 +32,8 @@ public class Login_TC1 {
 //		home.clickLogin();
 
 		//Enter username & password
-		login.enterUsername("test.admin41");
-		login.enterPassword("test41-hassan");
+		login.enterUsername("username");
+		login.enterPassword("password");
 		login.enterType();
 
 
